@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube去廣告 YouTube AD Blocker
 // @name:zh-TW   YouTube去廣告
-// @namespace    https://github.com/iamfugui/YouTubeADB
+// @namespace    https://github.com/anrhur/google-/tree/main
 // @version      6.09
 // @description         這是一個去除YouTube廣告的腳本，輕量且高效，它能絲滑的去除界面廣告和視頻廣告，包括6s廣告。This is a script that removes ads on YouTube, it's lightweight and efficient, capable of smoothly removing interface and video ads, including 6s ads.
 // @description:zh-TW   這是一個去除YouTube廣告的腳本，輕量且高效，它能絲滑地去除界面廣告和視頻廣告，包括6s廣告。
